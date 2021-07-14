@@ -184,43 +184,6 @@ ul {
 }
 
 /*=====================================
-          player sec Part Start
-=======================================*/
-.player_sec {
-    margin-top: 100px;
-}
-
-.players_team {
-    display: flex;
-}
-
-.club_player img {
-    width: 635px;
-    height: 485px;
-}
-
-.players_info h2 {
-    text-transform: uppercase;
-    font-family: var(--header-font);
-    font-weight: 700;
-    font-style: normal;
-    line-height: 36px;
-    font-size: 28px;
-    margin-top: 50px;
-}
-
-.players_info p {
-    font-family: var(--header-font);
-    font-style: normal;
-    font-size: 16px;
-    line-height: 28px;
-    font-weight: 400;
-    color: #6C6C6C;
-    margin: 0;
-    max-width: 406px;
-}
-
-/*=====================================
             footer part start
 =======================================*/
 .footer_part {
